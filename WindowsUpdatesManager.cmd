@@ -25,7 +25,7 @@ set "RST=%ESC%[0m"
 :DASHBOARD
 cls
 echo %WHT%=======================================================%RST%
-echo             %YLW%ADVANCED WINDOWS UPDATE MANAGER%RST%
+echo             %YLW%S Prabhanjan Kumar - ADVANCED WINDOWS UPDATE MANAGER%RST%
 echo %WHT%=======================================================%RST%
 
 :: ==========================================
